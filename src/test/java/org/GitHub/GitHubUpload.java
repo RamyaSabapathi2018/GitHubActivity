@@ -10,6 +10,9 @@ public class GitHubUpload {
 		System.out.println(s2.indexOf('e'));
 		System.out.println(s2.substring(2));
 		System.out.println("Add 10"+ (a+10));
+		int c= 10;
+		int d =20;
+		
 	}
 
 }
