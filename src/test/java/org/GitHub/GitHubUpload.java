@@ -6,6 +6,9 @@ public class GitHubUpload {
 		System.out.println("To Upload in Master branch");
 		String s2 = "Conflict Check";
 		int a=10;
+		System.out.println("Conflict Check");
+		System.out.println("Conflict Check");
+		System.out.println("Conflict Check");
 		System.out.println(s2.indexOf('c'));
 		System.out.println(s2.indexOf('e'));
 		System.out.println(s2.substring(2));
